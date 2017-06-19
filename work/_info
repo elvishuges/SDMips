@@ -1,0 +1,153 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Uefs/SEMESTRE8/sd/lab0/verilog
+vBancoDeRegistradores
+Z0 !s110 1496062193
+!i10b 1
+!s100 d6]dmXL=J5i4NhmN=MKcS0
+I8YClKhdV`nJ41mOUcYfl81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog
+Z3 w1460515869
+Z4 8C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/BancoDeRegistradores.v
+Z5 FC:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/BancoDeRegistradores.v
+L0 1
+Z6 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z7 !s108 1496062193.000000
+Z8 !s107 C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/BancoDeRegistradores.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/BancoDeRegistradores.v|
+!i113 1
+Z10 o-work work
+n@banco@de@registradores
+vPC
+!s110 1496088512
+!i10b 1
+!s100 ]i1LdOaVE:c3RPn@=EH;c1
+I@O<2al99_h=;=1ZQFL9Tb2
+R1
+R2
+w1496088434
+Z11 8C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc.v
+Z12 FC:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1496088512.000000
+Z13 !s107 C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc.v|
+!i113 1
+R10
+n@p@c
+vpc
+!s110 1496088830
+!i10b 1
+!s100 LBICQNR<eS:nj3VJT7zOB2
+IKldm^D6Vd_^CgH=4H=34m3
+R1
+R2
+w1496088822
+R11
+R12
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1496088830.000000
+R13
+R14
+!i113 1
+R10
+vpc_tb
+!s110 1496088762
+!i10b 1
+!s100 jgSY0KOXO0;ILJ01IcTW=3
+IIYOCk3zIf2m`7RnM@2PoK3
+R1
+R2
+w1496088751
+8C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc_tb.v
+FC:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc_tb.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1496088762.000000
+!s107 C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/pc_tb.v|
+!i113 1
+R10
+vsomador_pc
+!s110 1496085779
+!i10b 1
+!s100 c5;@OHY_4aIGhaE0W4Rm`1
+I7z>OK<NkA:;1QAbCbE;n13
+R1
+R2
+w1496085768
+8C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc.v
+FC:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1496085779.000000
+!s107 C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc.v|
+!i113 1
+R10
+vsomador_pc_tb
+!s110 1497287960
+!i10b 1
+!s100 >3W1=nV94K94So9VjDUS@1
+I[]iXPgZg4UL11^8d[IC@P1
+R1
+R2
+w1496105311
+8C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc_tb.v
+FC:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc_tb.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1497287960.000000
+!s107 C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc_tb.v|
+!i113 1
+R10
+vTesteBancoRegistrador
+R0
+!i10b 1
+!s100 `_gYKQmEh1`8^Hm1]AB?41
+IX7ZN`za8a89WkDUli4MYZ0
+R1
+R2
+R3
+R4
+R5
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@teste@banco@registrador

@@ -1,0 +1,28 @@
+
+`timescale 1ns/10ps
+
+module somador_pc_tb;
+
+
+reg[31:0] op_1;
+reg[31:0] op_2;
+wire [31:0] resul_soma;
+
+
+somador_pc dut(.op_1(op_1),.op_2(op_2),.resul_soma(resul_soma));
+
+initial
+begin
+
+
+
+op_1 = 32'b00000000000000000000000000000000;
+#0.1;
+op_1 = 32'b11111111000000000000000000000000;
+#0.1;
+op_1 = 32'b01111111111111111111111111111111;
+
+
+end
+
+endmodule

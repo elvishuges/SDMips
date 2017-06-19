@@ -1,0 +1,8 @@
+{C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc.v} {1 {vlog -work work -stats=none {C:/Users/n/OneDrive/UMBRELLA1/UefsGeral/SEMESTRE 8/sd/problema2/verilog/somador_pc.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module somador_pc
+
+Top level modules:
+	somador_pc
+
+} {} {}}
